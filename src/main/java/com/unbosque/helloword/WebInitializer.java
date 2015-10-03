@@ -5,7 +5,6 @@
  */
 package com.unbosque.helloword;
 
-import javax.servlet.FilterRegistration.Dynamic;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.ServletRegistration;
